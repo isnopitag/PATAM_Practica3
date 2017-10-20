@@ -11,6 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Comprobar Contactos"/>
+
     <ListView
         android:id="@+id/lv"
         android:layout_width="match_parent"
